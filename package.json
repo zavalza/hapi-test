@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-paul",
+  "version": "1.0.0",
+  "description": "pair programming excercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Paul Zavalza",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.0.0",
+    "joi": "^13.0.2",
+    "mongoose": "^4.13.4"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
